@@ -14,5 +14,5 @@ function getByClass(parent,clsName){
 			boxArr.push(oElements[i]);
 		}
 	}
-	return boxArr;
+	return boxArraaa;
 }
